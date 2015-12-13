@@ -1,4 +1,6 @@
-# Example Mezzanine project
+# Trying Mezzanine project
+
+My little playground...
 
 Example of a [Mezzanine][1] project.
 
